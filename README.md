@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeonVoon
 - 👀 I’m interested in fitness, shoes, coding
-- 🌱 I’m currently learning python, C++, HTML ,JavaScripe, MySQL
+- 🌱 I’m currently learning python,C#, HTML ,JavaScripe, MySQL,MSSQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
